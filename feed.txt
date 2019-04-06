@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+>
+
+<channel>
+    <title>Well That Didn't Work</title>
+    <atom:link href="https://wellthatdidntwork.podbean.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://wellthatdidntwork.podbean.com</link>
+    <description>A group of friends, getting together, pretending to be other people, creatures, and things doing things that mostly don't work out for them. Visit us on Patreon at https://www.patreon.com/notworkingcrew!</description>
+    <pubDate>Mon, 18 Mar 2019 10:23:02 -0500</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright>Copyright 2018 All rights reserved.</copyright>
+    <category>Technology:Podcasting</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>An actual play RPG podcast</itunes:subtitle>
+    <itunes:summary>A group of friends, getting together, pretending to be other people, creatures, and things doing things that mostly don't work out for them. Visit us on Patreon at https://www.patreon.com/notworkingcrew!</itunes:summary>
+    <itunes:author>Well That Didn’t Work</itunes:author>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting"/>
+	</itunes:category>
+    <itunes:owner>
+        <itunes:name>Well That Didn’t Work</itunes:name>
+        <itunes:email>notworkingcast@gmail.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>No</itunes:explicit>
+	<itunes:new-feed-url></itunes:new-feed-url>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/3347685/IMG_1478.jpg" />
+    <image>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/3347685/IMG_1478.jpg</url>
+        <title>Well That Didn't Work</title>
+        <link>https://wellthatdidntwork.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>WARRIORS PATH Episode 3: Evidence Lost (L5R RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-3-evidense-lost-l5r-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-3-evidense-lost-l5r-rpg/#comments</comments>
+        <pubDate>Mon, 18 Mar 2019 10:23:02 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-episode-3-evidense-lost-l5r-rpg-f48da82a0e9e7fbcd3961372b96c10be</guid>
+        <description><![CDATA[<p>The tension in Toshi Ranbo grows thicker with an untimely twist. <br><br></p>
+<p>Music: "Unity" by Kevin Mcleod</p>]]></description>
+        <content:encoded><![CDATA[<p>The tension in Toshi Ranbo grows thicker with an untimely twist. </p>
+<p>Music: "Unity" by Kevin Mcleod</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/k7em9k/L5R_Session_3_.mp3" length="254919083" type="audio/mpeg"/>
+        <itunes:subtitle>The tension in Toshi Ranbo grows thicker with an untimely twist. 
+Music: "Unity" by Kevin Mcleod</itunes:subtitle>
+        <itunes:summary>The tension in Toshi Ranbo grows thicker with an untimely twist. 
+Music: "Unity" by Kevin Mcleod</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>02:12:46</itunes:duration>
+                <itunes:episode>63</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="http://wellthatdidntwork.podbean.com/mf/web/7aw2qv/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Survival Arc 26 - Worst Case Scenario</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-26-worst-case-scenario/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-26-worst-case-scenario/#comments</comments>
+        <pubDate>Fri, 15 Mar 2019 09:09:21 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-survival-arc-26-worst-case-scenario-bd31162aac90bb1dbe32e8a51a56ceb7</guid>
+        <description><![CDATA[<p>Kal Tame goes on the job, K'Click and Lukia reconnect. Thanks for listening!</p>]]></description>
+        <content:encoded><![CDATA[<p>Kal Tame goes on the job, K'Click and Lukia reconnect. Thanks for listening!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/3nqyyj/Urban_Stars_Ep_26_-_3_15_19_9_02_AM.mp3" length="132778867" type="audio/mpeg"/>
+        <itunes:subtitle>Kal Tame goes on the job, K'Click and Lukia reconnect. Thanks for listening!</itunes:subtitle>
+        <itunes:summary>Kal Tame goes on the job, K'Click and Lukia reconnect. Thanks for listening!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:09:09</itunes:duration>
+                <itunes:episode>62</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>TABLE BABBLE 1: Welcome to our Talk Show!</title>
+        <link>https://wellthatdidntwork.podbean.com/e/table-babble-1-welcome-to-our-talk-show/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/table-babble-1-welcome-to-our-talk-show/#comments</comments>
+        <pubDate>Wed, 13 Mar 2019 09:57:48 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/table-babble-1-welcome-to-our-talk-show-f863beb03d756e8cb2bc78d006e9581d</guid>
+        <description><![CDATA[<p>Topics of discussion:<br>How many Ducks does it take?<br>Barbarian war cries.<br>What are we playing?<br>Dealing with character death.<br>And more!<br><br>Thanks so much to Lynden Rook for the use of his single "Yeti." Check him out all over Spotify!</p>]]></description>
+        <content:encoded><![CDATA[<p>Topics of discussion:How many Ducks does it take?Barbarian war cries.What are we playing?Dealing with character death.And more!Thanks so much to Lynden Rook for the use of his single "Yeti." Check him out all over Spotify!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/wpktac/Table_Babble_1_-_3_13_19_9_50_AM.mp3" length="78470920" type="audio/mpeg"/>
+        <itunes:subtitle>Topics of discussion:How many Ducks does it take?Barbarian war cries.What are we playing?Dealing with character death.And more!Thanks so much to Lynden Rook for the use of his single "Yeti." Check him out all over Spotify!</itunes:subtitle>
+        <itunes:summary>Topics of discussion:How many Ducks does it take?Barbarian war cries.What are we playing?Dealing with character death.And more!Thanks so much to Lynden Rook for the use of his single "Yeti." Check him out all over Spotify!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>40:52</itunes:duration>
+                <itunes:episode>61</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Survival Arc 25 - Friends in Low Places</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-25-friends-in-low-places/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-25-friends-in-low-places/#comments</comments>
+        <pubDate>Fri, 08 Mar 2019 08:00:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-survival-arc-25-friends-in-low-places-476ec5a4832d7dc69b957956b341b24d</guid>
+        <description><![CDATA[<p>Kal gets a new job to finally ventures for the first time into the Upper City of Taris.</p>]]></description>
+        <content:encoded><![CDATA[<p>Kal gets a new job to finally ventures for the first time into the Upper City of Taris.</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/2jznfw/Urban_Stars_Ep_25_-_3_7_19_1_05_PM.mp3" length="118213825" type="audio/mpeg"/>
+        <itunes:subtitle>Kal gets a new job to finally ventures for the first time into the Upper City of Taris.</itunes:subtitle>
+        <itunes:summary>Kal gets a new job to finally ventures for the first time into the Upper City of Taris.</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:01:34</itunes:duration>
+                <itunes:episode>60</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>TRAIL OF THE JADE RABBIT - Chapter 1: Death of an Investigator (Call of Cthulhu 7e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/trail-of-the-jade-rabbit-chapter-1-death-of-an-investigator-call-of-cthulhu-7e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/trail-of-the-jade-rabbit-chapter-1-death-of-an-investigator-call-of-cthulhu-7e/#comments</comments>
+        <pubDate>Wed, 06 Mar 2019 08:00:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/trail-of-the-jade-rabbit-chapter-1-death-of-an-investigator-call-of-cthulhu-7e-40baa3972a4b8b17cf1df02fa8f710d5</guid>
+        <description><![CDATA[<p>In the opening scene, our investigators find themselves taking over an investigation already in progress. </p>]]></description>
+        <content:encoded><![CDATA[<p>In the opening scene, our investigators find themselves taking over an investigation already in progress. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/sj4tkn/Call_of_Cthulhu_Chapter_1_-_3_6_19_12_32_AM.mp3" length="76710476" type="audio/mpeg"/>
+        <itunes:subtitle>In the opening scene, our investigators find themselves taking over an investigation already in progress. </itunes:subtitle>
+        <itunes:summary>In the opening scene, our investigators find themselves taking over an investigation already in progress. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>39:57</itunes:duration>
+                <itunes:episode>59</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/Jade_Rabbit.jpg"/>
+    </item>
+    <item>
+        <title>TRAIL OF THE JADE RABBIT - Preface: Character Creation (Call of Cthulhu 7e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/trail-of-the-jade-rabbit-preface-character-creation-call-of-cthulhu-7e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/trail-of-the-jade-rabbit-preface-character-creation-call-of-cthulhu-7e/#comments</comments>
+        <pubDate>Wed, 06 Mar 2019 08:00:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/trail-of-the-jade-rabbit-preface-character-creation-call-of-cthulhu-7e-25b225083e36e15803108865eba74fab</guid>
+        <description><![CDATA[<p>Well, we create characters in this one</p>]]></description>
+        <content:encoded><![CDATA[<p>Well, we create characters in this one</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/ymnvh3/Call_of_Cthulhu_Session_0_-_3_6_19_12_35_AM.mp3" length="101106755" type="audio/mpeg"/>
+        <itunes:subtitle>Well, we create characters in this one</itunes:subtitle>
+        <itunes:summary>Well, we create characters in this one</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>52:39</itunes:duration>
+                <itunes:episode>58</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/Jade_Rabbit.jpg"/>
+    </item>
+    <item>
+        <title>March Update!</title>
+        <link>https://wellthatdidntwork.podbean.com/e/march-update/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/march-update/#comments</comments>
+        <pubDate>Fri, 01 Mar 2019 14:38:30 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/march-update-6aee759091d090b672a76378b6f3ce06</guid>
+        <description><![CDATA[<p>What's been goin on??? Just a quick note from Percy and Mike!</p>]]></description>
+        <content:encoded><![CDATA[<p>What's been goin on??? Just a quick note from Percy and Mike!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/h4r22i/March_Update_-_3_1_19_1_37_PM.mp3" length="14763908" type="audio/mpeg"/>
+        <itunes:subtitle>What's been goin on??? Just a quick note from Percy and Mike!</itunes:subtitle>
+        <itunes:summary>What's been goin on??? Just a quick note from Percy and Mike!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>07:41</itunes:duration>
+                <itunes:episode>57</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Survival Arc 24 - Goodnight, Sweet Frank (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-24-goodnight-sweet-frank-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-24-goodnight-sweet-frank-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 01 Mar 2019 13:29:28 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-survival-arc-24-goodnight-sweet-frank-star-wars-rpg-9556e286ba8550d6eadacb120fb924dc</guid>
+        <description><![CDATA[<p>Tragedy continues to befall the crew of the Rusty Seabucket this week...When will it end???</p>]]></description>
+        <content:encoded><![CDATA[<p>Tragedy continues to befall the crew of the Rusty Seabucket this week...When will it end???</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/tjkcb6/Urban_Stars_Episode_24_-_3_1_19_12_17_PM.mp3" length="104584175" type="audio/mpeg"/>
+        <itunes:subtitle>Tragedy continues to befall the crew of the Rusty Seabucket this week...When will it end???</itunes:subtitle>
+        <itunes:summary>Tragedy continues to befall the crew of the Rusty Seabucket this week...When will it end???</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>54:28</itunes:duration>
+                <itunes:episode>56</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Survival Arc 23 - Kal Tame (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-23-kal-tame-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-survival-arc-23-kal-tame-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 22 Feb 2019 11:33:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-survival-arc-23-kal-tame-star-wars-rpg-7e8aa20af0b9d0ef793bcd8afb8e123c</guid>
+        <description><![CDATA[<p>Kal has found himself in a world of hurt, and the crew of the Rusty Sea Bucket finds out their fate. </p>]]></description>
+        <content:encoded><![CDATA[<p>Kal has found himself in a world of hurt, and the crew of the Rusty Sea Bucket finds out their fate. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/x8wmb3/Urban_Stars_Ep_23_-_2_22_19_10_23_AM.mp3" length="134663027" type="audio/mpeg"/>
+        <itunes:subtitle>Kal has found himself in a world of hurt, and the crew of the Rusty Sea Bucket finds out their fate. </itunes:subtitle>
+        <itunes:summary>Kal has found himself in a world of hurt, and the crew of the Rusty Sea Bucket finds out their fate. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:10:08</itunes:duration>
+                <itunes:episode>55</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>WARRIORS PATH Ep 2 - Gryo Ricco (Legend of the Five Rings)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-ep-2-gryo-ricco-legend-of-the-five-rings/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-ep-2-gryo-ricco-legend-of-the-five-rings/#comments</comments>
+        <pubDate>Wed, 20 Feb 2019 13:28:11 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-ep-2-gryo-ricco-legend-of-the-five-rings-6985e333c9123081a65160152f82ffbd</guid>
+        <description><![CDATA[<p>In this episode, we meet a former Topaz Champion, and venture into the tumultuous city of Toshi Ranbo.</p>
+<p>Music "Unity" by Kevin McLeod</p>]]></description>
+        <content:encoded><![CDATA[<p>In this episode, we meet a former Topaz Champion, and venture into the tumultuous city of Toshi Ranbo.</p>
+<p>Music "Unity" by Kevin McLeod</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/qfn3w4/L5R_ep_2_-_2_20_19_11_12_AM.mp3" length="236091693" type="audio/mpeg"/>
+        <itunes:subtitle>In this episode, we meet a former Topaz Champion, and venture into the tumultuous city of Toshi Ranbo.
+Music "Unity" by Kevin McLeod</itunes:subtitle>
+        <itunes:summary>In this episode, we meet a former Topaz Champion, and venture into the tumultuous city of Toshi Ranbo.
+Music "Unity" by Kevin McLeod</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>02:02:57</itunes:duration>
+                <itunes:episode>54</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>WARRIORS PATH Ep 1 - The New Magistrates (Legend of the Five Rings)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-ep-1-the-new-magistrates-legend-of-the-five-rings/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-ep-1-the-new-magistrates-legend-of-the-five-rings/#comments</comments>
+        <pubDate>Mon, 18 Feb 2019 15:23:34 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-ep-1-the-new-magistrates-legend-of-the-five-rings-f010bf92790fd7adcae4383a0db72958</guid>
+        <description><![CDATA[<p>Our characters are finally together, and their journey begins with a question: If a bear finds a necklace in the woods, exactly how dangerous is it?</p>
+<p>Music: "Unity" by Kevin McLeod</p>]]></description>
+        <content:encoded><![CDATA[<p>Our characters are finally together, and their journey begins with a question: If a bear finds a necklace in the woods, exactly how dangerous is it?</p>
+<p>Music: "Unity" by Kevin McLeod</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/gecv37/L5R_Session_1_-_2_18_19_1_58_PM.mp3" length="255896272" type="audio/mpeg"/>
+        <itunes:subtitle>Our characters are finally together, and their journey begins with a question: If a bear finds a necklace in the woods, exactly how dangerous is it?
+Music: "Unity" by Kevin McLeod</itunes:subtitle>
+        <itunes:summary>Our characters are finally together, and their journey begins with a question: If a bear finds a necklace in the woods, exactly how dangerous is it?
+Music: "Unity" by Kevin McLeod</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>02:13:16</itunes:duration>
+                <itunes:episode>53</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 22 - Claymore in the Dark (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-22-claymore-in-the-dark-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-22-claymore-in-the-dark-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 15 Feb 2019 08:00:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-22-claymore-in-the-dark-star-wars-rpg-4de8a8227383bcae851fc86e983e69a9</guid>
+        <description><![CDATA[<p>This spcae is bananas, B.A.N.A.N.A.S....</p>
+<p>Seriously, don't miss this one. No spoilers.</p>]]></description>
+        <content:encoded><![CDATA[<p>This spcae is bananas, B.A.N.A.N.A.S....</p>
+<p>Seriously, don't miss this one. No spoilers.</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/8n45vv/Urban_Stars_Ep_22_-_2_12_19_11_49_AM.mp3" length="81989301" type="audio/mpeg"/>
+        <itunes:subtitle>This spcae is bananas, B.A.N.A.N.A.S....
+Seriously, don't miss this one. No spoilers.</itunes:subtitle>
+        <itunes:summary>This spcae is bananas, B.A.N.A.N.A.S....
+Seriously, don't miss this one. No spoilers.</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>42:42</itunes:duration>
+                <itunes:episode>52</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 10 - Qwann and the Darkness (D&amp;D5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/qwann-and-the-darkness/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/qwann-and-the-darkness/#comments</comments>
+        <pubDate>Tue, 12 Feb 2019 12:24:29 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/qwann-and-the-darkness-6432bdee6986ff19a6f0274245c80bc6</guid>
+        <description><![CDATA[<p>This Short Story concludes in this episode, and noone saw it coming. </p>
+<p> </p>
+<p>Music by: Purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>This Short Story concludes in this episode, and noone saw it coming. </p>
+<p> </p>
+<p>Music by: Purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/n98gby/The_Brew_Crew_Ep_10_-_2_11_19_10_51_AM.mp3" length="104610924" type="audio/mpeg"/>
+        <itunes:subtitle>This Short Story concludes in this episode, and noone saw it coming. 
+ 
+Music by: Purple-planet.com</itunes:subtitle>
+        <itunes:summary>This Short Story concludes in this episode, and noone saw it coming. 
+ 
+Music by: Purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>54:28</itunes:duration>
+                <itunes:episode>51</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 21 - A Pod of Purrgill (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-21-a-pod-of-purrgill-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-21-a-pod-of-purrgill-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 08 Feb 2019 09:13:07 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-21-a-pod-of-purrgill-star-wars-rpg-ffe5295ec6e7a995a085dc3b998c114f</guid>
+        <description><![CDATA[<p>The rebels dodge a pirate attack and weave their way through the asteroid feild surrounding Taris. </p>]]></description>
+        <content:encoded><![CDATA[<p>The rebels dodge a pirate attack and weave their way through the asteroid feild surrounding Taris. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/chv8bw/Urban_Stars_Ep_21_-_A_Pod_of_Purrgill.mp3" length="72688873" type="audio/mpeg"/>
+        <itunes:subtitle>The rebels dodge a pirate attack and weave their way through the asteroid feild surrounding Taris. </itunes:subtitle>
+        <itunes:summary>The rebels dodge a pirate attack and weave their way through the asteroid feild surrounding Taris. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>37:51</itunes:duration>
+                <itunes:episode>50</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 20 - Orbital Checkpoint 681 (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-20-orbital-checkpoint-681-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-20-orbital-checkpoint-681-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 01 Feb 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-20-orbital-checkpoint-681-star-wars-rpg-04ef6668ca9e32582ece2e3dbd3cb6f7</guid>
+        <description><![CDATA[<p>The crew takes off with a new friend in tow, toward the rogue moon, and the source of power that the Resistance desperately needs. </p>]]></description>
+        <content:encoded><![CDATA[<p>The crew takes off with a new friend in tow, toward the rogue moon, and the source of power that the Resistance desperately needs. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/7kvbjq/Urban_Stars_Ep_20_-_2_1_19_7_51_AM.mp3" length="81119946" type="audio/mpeg"/>
+        <itunes:subtitle>The crew takes off with a new friend in tow, toward the rogue moon, and the source of power that the Resistance desperately needs. </itunes:subtitle>
+        <itunes:summary>The crew takes off with a new friend in tow, toward the rogue moon, and the source of power that the Resistance desperately needs. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>42:14</itunes:duration>
+                <itunes:episode>48</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>February Update!</title>
+        <link>https://wellthatdidntwork.podbean.com/e/february-update/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/february-update/#comments</comments>
+        <pubDate>Fri, 01 Feb 2019 09:39:32 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/february-update-0890430ff8550b276f4c5ef4b35d280d</guid>
+        <description><![CDATA[<p>This one is a bit longer, but it's because we have SO MUCH good news!</p>]]></description>
+        <content:encoded><![CDATA[<p>This one is a bit longer, but it's because we have SO MUCH good news!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/sjjauv/February_Update_-_2_1_19_8_37_AM.mp3" length="39523810" type="audio/mpeg"/>
+        <itunes:subtitle>This one is a bit longer, but it's because we have SO MUCH good news!</itunes:subtitle>
+        <itunes:summary>This one is a bit longer, but it's because we have SO MUCH good news!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>20:34</itunes:duration>
+                <itunes:episode>49</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 9 - Meeting in a Tavern (D&amp;D5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-9-meeting-in-a-tavern-dd5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-9-meeting-in-a-tavern-dd5e/#comments</comments>
+        <pubDate>Wed, 30 Jan 2019 14:50:39 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-9-meeting-in-a-tavern-dd5e-0dce1d5ec20bfd95bdcdab95b86ef631</guid>
+        <description><![CDATA[<p>The gang finishes up their wandering under the cathedral and meets, once again, in a tavern. </p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>The gang finishes up their wandering under the cathedral and meets, once again, in a tavern. </p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/d59twv/Brew_Crew_Ep_9_-_1_30_19_12_47_PM.mp3" length="113622125" type="audio/mpeg"/>
+        <itunes:subtitle>The gang finishes up their wandering under the cathedral and meets, once again, in a tavern. 
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>The gang finishes up their wandering under the cathedral and meets, once again, in a tavern. 
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>59:10</itunes:duration>
+                <itunes:episode>47</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>WARRIORS PATH Episode 0.4: Shosuro Junji (L5R)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-04-shosuro-junji-l5r/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-04-shosuro-junji-l5r/#comments</comments>
+        <pubDate>Mon, 28 Jan 2019 09:30:54 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-episode-04-shosuro-junji-l5r-57bbde60ad61b38e0a9727822cfc1d11</guid>
+        <description><![CDATA[<p>Scorpion.</p>
+<p> </p>
+<p>Music: "Unity" by Kevin Mcleod</p>]]></description>
+        <content:encoded><![CDATA[<p>Scorpion.</p>
+<p> </p>
+<p>Music: "Unity" by Kevin Mcleod</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/yjrp9j/Shosuro_Junji_-_1_28_19_8_26_AM.mp3" length="85071332" type="audio/mpeg"/>
+        <itunes:subtitle>Scorpion.
+ 
+Music: "Unity" by Kevin Mcleod</itunes:subtitle>
+        <itunes:summary>Scorpion.
+ 
+Music: "Unity" by Kevin Mcleod</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>44:18</itunes:duration>
+                <itunes:episode>46</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 19 - Heist Prep Work (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-19-heist-prep-work-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-19-heist-prep-work-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 25 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-19-heist-prep-work-star-wars-rpg-8812546060d3c3ef16570bf383c0261f</guid>
+        <description><![CDATA[<p>The gang fixes the ship and works on the false mining IDs</p>]]></description>
+        <content:encoded><![CDATA[<p>The gang fixes the ship and works on the false mining IDs</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/zdgi6a/Urban_Stars_Ep_19_-_1_25_19_8_01_AM.mp3" length="74750248" type="audio/mpeg"/>
+        <itunes:subtitle>The gang fixes the ship and works on the false mining IDs</itunes:subtitle>
+        <itunes:summary>The gang fixes the ship and works on the false mining IDs</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>38:55</itunes:duration>
+                <itunes:episode>45</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>WARRIORS PATH Episode 0.3: Isawa Airie (L5R)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-03-isawa-airie-l5r/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-03-isawa-airie-l5r/#comments</comments>
+        <pubDate>Mon, 21 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-episode-03-isawa-airie-l5r-62c0b60b7724ac653e8ef6d3815d96a5</guid>
+        <description><![CDATA[<p>The phoenix shugenja, Isawa Airie, journeys to the wall with his father to investigate increased Kami activity there. </p>
+<p>Music: "Unity" by Kevin McLeod</p>]]></description>
+        <content:encoded><![CDATA[<p>The phoenix shugenja, Isawa Airie, journeys to the wall with his father to investigate increased Kami activity there. </p>
+<p>Music: "Unity" by Kevin McLeod</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/f7my96/Isawa_Airie_Origin_-_1_19_19_9_07_AM.mp3" length="94088384" type="audio/mpeg"/>
+        <itunes:subtitle>The phoenix shugenja, Isawa Airie, journeys to the wall with his father to investigate increased Kami activity there. 
+Music: "Unity" by Kevin McLeod</itunes:subtitle>
+        <itunes:summary>The phoenix shugenja, Isawa Airie, journeys to the wall with his father to investigate increased Kami activity there. 
+Music: "Unity" by Kevin McLeod</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>49:00</itunes:duration>
+                <itunes:episode>44</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 18 - Visitors from the Past (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-18-georges-junk-n-stuff-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-18-georges-junk-n-stuff-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 18 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-18-georges-junk-n-stuff-star-wars-rpg-6caa580e877a744eb888910b13b4b672</guid>
+        <description><![CDATA[<p>Lukia and Udel have to find a way out of Antinniel Kallus' clutches and into their new ship. </p>]]></description>
+        <content:encoded><![CDATA[<p>Lukia and Udel have to find a way out of Antinniel Kallus' clutches and into their new ship. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/t3ee2a/Urban_Stars_Ep_18_-_1_17_19_12_20_PM.mp3" length="106494948" type="audio/mpeg"/>
+        <itunes:subtitle>Lukia and Udel have to find a way out of Antinniel Kallus' clutches and into their new ship. </itunes:subtitle>
+        <itunes:summary>Lukia and Udel have to find a way out of Antinniel Kallus' clutches and into their new ship. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>55:27</itunes:duration>
+                <itunes:episode>43</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>WARRIORS PATH Episode 0.2: Mirumoto Dip Thong (L5R)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-02-mirumoto-dip-thong-l5r/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-02-mirumoto-dip-thong-l5r/#comments</comments>
+        <pubDate>Mon, 14 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-episode-02-mirumoto-dip-thong-l5r-40385e33b91d7f639d5424306ce58761</guid>
+        <description><![CDATA[<p>Welcome to the second of our Legend of the Five Rings origin stories. This time, the Dragon Clan's Mirumoto Dip Thong completes his genpuku through intense meditation, during which he encounters a vision. </p>
+<p>There is also some post-game banter that we hope you'll enjoy!</p>
+<p>Music: "Unity" by Kevin McLeod</p>]]></description>
+        <content:encoded><![CDATA[<p>Welcome to the second of our Legend of the Five Rings origin stories. This time, the Dragon Clan's Mirumoto Dip Thong completes his genpuku through intense meditation, during which he encounters a vision. </p>
+<p>There is also some post-game banter that we hope you'll enjoy!</p>
+<p>Music: "Unity" by Kevin McLeod</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/qqskkf/Dip_Thong_Mirumoto_Origin_Story_-_1_14_19_9_56_AM.mp3" length="79048540" type="audio/mpeg"/>
+        <itunes:subtitle>Welcome to the second of our Legend of the Five Rings origin stories. This time, the Dragon Clan's Mirumoto Dip Thong completes his genpuku through intense meditation, during which he encounters a vision. 
+There is also some post-game banter that we hope...</itunes:subtitle>
+        <itunes:summary>Welcome to the second of our Legend of the Five Rings origin stories. This time, the Dragon Clan's Mirumoto Dip Thong completes his genpuku through intense meditation, during which he encounters a vision. 
+There is also some post-game banter that we hope you'll enjoy!
+Music: "Unity" by Kevin McLeod</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>41:10</itunes:duration>
+                <itunes:episode>42</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 17 - Part 2: Get the Money (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-17-part-2-get-the-money-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-17-part-2-get-the-money-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 11 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-17-part-2-get-the-money-star-wars-rpg-d38214cd17363b89cc62686ce7c2f68e</guid>
+        <description><![CDATA[<p>Deep in the underground gambling scene on Taris, Lukia and Udel find themselves in quite the roller coaster of events. </p>]]></description>
+        <content:encoded><![CDATA[<p>Deep in the underground gambling scene on Taris, Lukia and Udel find themselves in quite the roller coaster of events. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/qi7d86/Urban_Stars_Episode_17_-_1_11_19_8_50_AM.mp3" length="89598666" type="audio/mpeg"/>
+        <itunes:subtitle>Deep in the underground gambling scene on Taris, Lukia and Udel find themselves in quite the roller coaster of events. </itunes:subtitle>
+        <itunes:summary>Deep in the underground gambling scene on Taris, Lukia and Udel find themselves in quite the roller coaster of events. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>46:39</itunes:duration>
+                <itunes:episode>41</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>WARRIORS PATH Episode 0.1: Kakita Isamu (L5R)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-0-kakita-isamu-l5r/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/warriors-path-episode-0-kakita-isamu-l5r/#comments</comments>
+        <pubDate>Mon, 07 Jan 2019 09:24:08 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/warriors-path-episode-0-kakita-isamu-l5r-92938650a72f64a45be09e2106aa5e1a</guid>
+        <description><![CDATA[<p>Kakita is synonymous with the word "duelist." Join us as we delve, for the first time, into the full rule set for FFG's Legend of the Five Rings with the first of four solo stories.</p>]]></description>
+        <content:encoded><![CDATA[<p>Kakita is synonymous with the word "duelist." Join us as we delve, for the first time, into the full rule set for FFG's Legend of the Five Rings with the first of four solo stories.</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/f3x9ah/Kakita_Isamu_Solo_Story_-_1_7_19_7_21_AM.mp3" length="136819696" type="audio/mpeg"/>
+        <itunes:subtitle>Kakita is synonymous with the word "duelist." Join us as we delve, for the first time, into the full rule set for FFG's Legend of the Five Rings with the first of four solo stories.</itunes:subtitle>
+        <itunes:summary>Kakita is synonymous with the word "duelist." Join us as we delve, for the first time, into the full rule set for FFG's Legend of the Five Rings with the first of four solo stories.</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:11:15</itunes:duration>
+                <itunes:episode>40</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_2949.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 16 - Part 1: Find a Ship (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-part-1-find-a-ship-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-part-1-find-a-ship-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 04 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-part-1-find-a-ship-star-wars-rpg-bcf9bfec3c1a1b38401ca5c1377e9f8e</guid>
+        <description><![CDATA[<p>Last time we made the plan. Now, we're doing the plan. Part one starts NOW!</p>]]></description>
+        <content:encoded><![CDATA[<p>Last time we made the plan. Now, we're doing the plan. Part one starts NOW!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/rwiisc/Part_1-_Find_the_Ship_US_ep_16.mp3" length="94258911" type="audio/mpeg"/>
+        <itunes:subtitle>Last time we made the plan. Now, we're doing the plan. Part one starts NOW!</itunes:subtitle>
+        <itunes:summary>Last time we made the plan. Now, we're doing the plan. Part one starts NOW!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>49:05</itunes:duration>
+                <itunes:episode>39</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 8 - Mysteries Underground (D&amp;D 5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/mysteries-underground/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/mysteries-underground/#comments</comments>
+        <pubDate>Wed, 02 Jan 2019 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/mysteries-underground-68e7c98fc6c285d7aa69dd7019f58036</guid>
+        <description><![CDATA[<p>What lurks beneath the Cathedral of the Sacred Flame?</p>]]></description>
+        <content:encoded><![CDATA[<p>What lurks beneath the Cathedral of the Sacred Flame?</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/mad5by/The_Brew_Crew_Episode_8_-_12_31_18_3_00_PM.mp3" length="120175725" type="audio/mpeg"/>
+        <itunes:subtitle>What lurks beneath the Cathedral of the Sacred Flame?</itunes:subtitle>
+        <itunes:summary>What lurks beneath the Cathedral of the Sacred Flame?</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:02:35</itunes:duration>
+                <itunes:episode>38</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>HAPPY NEW YEAR! A look ahead into January and 2019</title>
+        <link>https://wellthatdidntwork.podbean.com/e/happy-new-year-a-look-ahead-into-january-and-2019/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/happy-new-year-a-look-ahead-into-january-and-2019/#comments</comments>
+        <pubDate>Tue, 01 Jan 2019 10:12:02 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/happy-new-year-a-look-ahead-into-january-and-2019-796b413d563ada9f61d894cdfc211740</guid>
+        <description><![CDATA[<p>Hey friends, hope you enjoy this short update, and we will ee you soon for more ROle Playing content!</p>]]></description>
+        <content:encoded><![CDATA[<p>Hey friends, hope you enjoy this short update, and we will ee you soon for more ROle Playing content!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/ah428f/January_Update_-_12_31_18_3_20_PM.mp3" length="23164887" type="audio/mpeg"/>
+        <itunes:subtitle>Hey friends, hope you enjoy this short update, and we will ee you soon for more ROle Playing content!</itunes:subtitle>
+        <itunes:summary>Hey friends, hope you enjoy this short update, and we will ee you soon for more ROle Playing content!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:03</itunes:duration>
+                <itunes:episode>37</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Rogue Moon Heist Arc 15 - Make the Plan (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-15-make-the-plan-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-rogue-moon-heist-arc-15-make-the-plan-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 28 Dec 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-rogue-moon-heist-arc-15-make-the-plan-star-wars-rpg-9d54294c26b0cf03ae89c01bda09b31c</guid>
+        <description><![CDATA[<p>2 years after K'Lyst's rescue, the situation for our rebels has become bleak. They need fuel, and they need it badly to power their new home. </p>]]></description>
+        <content:encoded><![CDATA[<p>2 years after K'Lyst's rescue, the situation for our rebels has become bleak. They need fuel, and they need it badly to power their new home. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/b6g5bw/Urban_Stars_Episode_15_-_12_28_18_8_23_AM.mp3" length="88884792" type="audio/mpeg"/>
+        <itunes:subtitle>2 years after K'Lyst's rescue, the situation for our rebels has become bleak. They need fuel, and they need it badly to power their new home. </itunes:subtitle>
+        <itunes:summary>2 years after K'Lyst's rescue, the situation for our rebels has become bleak. They need fuel, and they need it badly to power their new home. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>46:17</itunes:duration>
+                <itunes:episode>36</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 14 - Resistance (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-14-resistance-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-14-resistance-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 21 Dec 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-destroyer-arc-14-resistance-star-wars-rpg-b5fdf81c678c8fce99a919303109ebb6</guid>
+        <description><![CDATA[<p>The gang reunites and Lugnug has an interesting offer for the newest members of his "fighting pit."</p>]]></description>
+        <content:encoded><![CDATA[<p>The gang reunites and Lugnug has an interesting offer for the newest members of his "fighting pit."</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/kpvu8q/Urban_Stars_Episode_14_-_12_20_18_2_16_PM.mp3" length="106103039" type="audio/mpeg"/>
+        <itunes:subtitle>The gang reunites and Lugnug has an interesting offer for the newest members of his "fighting pit."</itunes:subtitle>
+        <itunes:summary>The gang reunites and Lugnug has an interesting offer for the newest members of his "fighting pit."</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>55:15</itunes:duration>
+                <itunes:episode>35</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 7 - The Abandoned Cathedral (D&amp;D 5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-7-the-abandoned-cathedral-dd-5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-7-the-abandoned-cathedral-dd-5e/#comments</comments>
+        <pubDate>Wed, 19 Dec 2018 11:27:39 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-7-the-abandoned-cathedral-dd-5e-13f46971557819d64059a910fc65b147</guid>
+        <description><![CDATA[<p>The party approaches the cathedral of the Sacred Flame, an abandoned building nestled in Fairhaven, nearly in ruins.</p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>The party approaches the cathedral of the Sacred Flame, an abandoned building nestled in Fairhaven, nearly in ruins.</p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/rfics9/Brew_Crew_Ep_7_-_12_19_18_10_18_AM.mp3" length="93814202" type="audio/mpeg"/>
+        <itunes:subtitle>The party approaches the cathedral of the Sacred Flame, an abandoned building nestled in Fairhaven, nearly in ruins.
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>The party approaches the cathedral of the Sacred Flame, an abandoned building nestled in Fairhaven, nearly in ruins.
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>48:51</itunes:duration>
+                <itunes:episode>34</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 13 - Enraged (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-13-enraged-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-13-enraged-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 14 Dec 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-destroyer-arc-13-enraged-star-wars-rpg-9c321b3ac5f23ae6552f305a90ef0ae0</guid>
+        <description><![CDATA[<p>Empirico begins a counter attack on the other Pit Bosses</p>]]></description>
+        <content:encoded><![CDATA[<p>Empirico begins a counter attack on the other Pit Bosses</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/kqnhav/Urban_Stars_Episode_13_-_12_14_18_7_42_AM.mp3" length="125936875" type="audio/mpeg"/>
+        <itunes:subtitle>Empirico begins a counter attack on the other Pit Bosses</itunes:subtitle>
+        <itunes:summary>Empirico begins a counter attack on the other Pit Bosses</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:05:35</itunes:duration>
+                <itunes:episode>33</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>Land of the Dead Pt 3 (7th Sea 2e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/land-of-the-dead-pt-3-7th-sea-2e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/land-of-the-dead-pt-3-7th-sea-2e/#comments</comments>
+        <pubDate>Wed, 12 Dec 2018 12:43:34 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/land-of-the-dead-pt-3-7th-sea-2e-0fc51de5baf0025abb2b43a9ef2a174e</guid>
+        <description><![CDATA[<p>The truly STUNNING conclusion to a great adventure!!!</p>]]></description>
+        <content:encoded><![CDATA[<p>The truly STUNNING conclusion to a great adventure!!!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/9ntkc2/7th_Sea_Ep_3_-_12_12_18_11_35_AM.mp3" length="186229161" type="audio/mpeg"/>
+        <itunes:subtitle>The truly STUNNING conclusion to a great adventure!!!</itunes:subtitle>
+        <itunes:summary>The truly STUNNING conclusion to a great adventure!!!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:36:59</itunes:duration>
+                <itunes:episode>32</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>Land of the Dead Pt 2 (7th Sea 2e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/land-of-the-dead-pt-2-7th-sea-2e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/land-of-the-dead-pt-2-7th-sea-2e/#comments</comments>
+        <pubDate>Wed, 12 Dec 2018 12:27:26 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/land-of-the-dead-pt-2-7th-sea-2e-2892f60d6c680988e8f7677736b463c8</guid>
+        <description><![CDATA[<p>Gwilliam goes to a crypt, the Dread Pirate Roberts is drunk again, the curse witch does stuff, and Michael McGillicuddy goes to the library? It's great, we promise!</p>]]></description>
+        <content:encoded><![CDATA[<p>Gwilliam goes to a crypt, the Dread Pirate Roberts is drunk again, the curse witch does stuff, and Michael McGillicuddy goes to the library? It's great, we promise!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/ebt55v/7th_Sea_Episode_2_-_12_12_18_9_25_AM.mp3" length="108667636" type="audio/mpeg"/>
+        <itunes:subtitle>Gwilliam goes to a crypt, the Dread Pirate Roberts is drunk again, the curse witch does stuff, and Michael McGillicuddy goes to the library? It's great, we promise!</itunes:subtitle>
+        <itunes:summary>Gwilliam goes to a crypt, the Dread Pirate Roberts is drunk again, the curse witch does stuff, and Michael McGillicuddy goes to the library? It's great, we promise!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>56:35</itunes:duration>
+                <itunes:episode>31</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>Land of the Dead Pt 1 (7th Sea 2e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/land-of-the-dead-pt-1-7th-sea-2e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/land-of-the-dead-pt-1-7th-sea-2e/#comments</comments>
+        <pubDate>Wed, 12 Dec 2018 12:26:07 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/land-of-the-dead-pt-1-7th-sea-2e-aa5a8e8940b47e069c5aa910eac42874</guid>
+        <description><![CDATA[<p>Welcome to the New World</p>]]></description>
+        <content:encoded><![CDATA[<p>Welcome to the New World</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/prxuhn/7th_Sea_Episode_1_-_12_12_18_8_10_AM.mp3" length="100535822" type="audio/mpeg"/>
+        <itunes:subtitle>Welcome to the New World</itunes:subtitle>
+        <itunes:summary>Welcome to the New World</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>52:21</itunes:duration>
+                <itunes:episode>30</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 12 - Sedated (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-12-sedated-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-12-sedated-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 07 Dec 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-destroyer-arc-12-sedated-star-wars-rpg-7d4a0df9fa19715217a85ee151cd7875</guid>
+        <description><![CDATA[<p>K'Click and Varho find their way to K'Lyst's cell. Udel and Lukia fight Empirico's vanguard. </p>]]></description>
+        <content:encoded><![CDATA[<p>K'Click and Varho find their way to K'Lyst's cell. Udel and Lukia fight Empirico's vanguard. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/g348jv/Urban_Stars_Episode_12_-_12_4_18_11_24_AM.mp3" length="130119810" type="audio/mpeg"/>
+        <itunes:subtitle>K'Click and Varho find their way to K'Lyst's cell. Udel and Lukia fight Empirico's vanguard. </itunes:subtitle>
+        <itunes:summary>K'Click and Varho find their way to K'Lyst's cell. Udel and Lukia fight Empirico's vanguard. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:07:46</itunes:duration>
+                <itunes:episode>29</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 6 - Where There is Smoke (D&amp;D 5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-6-where-there-is-smoke-dd-5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-6-where-there-is-smoke-dd-5e/#comments</comments>
+        <pubDate>Wed, 05 Dec 2018 11:37:58 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-6-where-there-is-smoke-dd-5e-d130e3abcb6ab30302efd556d151c099</guid>
+        <description><![CDATA[<p>Our adventurers make it off of the lightning rail and get Tomas to safety, and stumble into the full expression of prophesy. </p>
+<p> </p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>Our adventurers make it off of the lightning rail and get Tomas to safety, and stumble into the full expression of prophesy. </p>
+<p> </p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/f2xr7t/Brew_Crew_Ep_6_-_12_3_18_10_36_AM.mp3" length="105386657" type="audio/mpeg"/>
+        <itunes:subtitle>Our adventurers make it off of the lightning rail and get Tomas to safety, and stumble into the full expression of prophesy. 
+ 
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>Our adventurers make it off of the lightning rail and get Tomas to safety, and stumble into the full expression of prophesy. 
+ 
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>54:53</itunes:duration>
+                <itunes:episode>28</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>December Update</title>
+        <link>https://wellthatdidntwork.podbean.com/e/december-update-1543628785/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/december-update-1543628785/#comments</comments>
+        <pubDate>Sat, 01 Dec 2018 08:00:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/december-update-1543628785-158a0ffb5688767e104c3a24a4711e33</guid>
+        <description><![CDATA[]]></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/anh8qi/December_Update_-_11_30_18_7_35_PM.mp3" length="21548221" type="audio/mpeg"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:13</itunes:duration>
+                <itunes:episode>27</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 11 - Assault: Begin (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-11-assault-begin-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-destroyer-arc-11-assault-begin-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 30 Nov 2018 14:06:58 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-destroyer-arc-11-assault-begin-star-wars-rpg-28e691468a892f51c9cf2723daa8b0bd</guid>
+        <description><![CDATA[<p>As all the moving parts are finally put into place, the mission to rescue K'Click's brother and deal the first, fateful blow to Empirico is ready to begin. </p>]]></description>
+        <content:encoded><![CDATA[<p>As all the moving parts are finally put into place, the mission to rescue K'Click's brother and deal the first, fateful blow to Empirico is ready to begin. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/vbirpy/Urban_Stars_Ep_11_-_11_29_18_2_38_PM.mp3" length="108810579" type="audio/mpeg"/>
+        <itunes:subtitle>As all the moving parts are finally put into place, the mission to rescue K'Click's brother and deal the first, fateful blow to Empirico is ready to begin. </itunes:subtitle>
+        <itunes:summary>As all the moving parts are finally put into place, the mission to rescue K'Click's brother and deal the first, fateful blow to Empirico is ready to begin. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>56:40</itunes:duration>
+                <itunes:episode>26</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 10 - Who Will You Become? (Star Wars RPG</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-10-who-will-you-become-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-10-who-will-you-become-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 23 Nov 2018 12:06:04 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-10-who-will-you-become-star-wars-rpg-0a86a23c7be530cdb2370befcc7c4d94</guid>
+        <description><![CDATA[<p>Our crew prepares for both the assault on Empirico's base as well as the rescue of K'Lyst from Moff Tanniel's Star Destroyer. Tensions continue to rise this week, on URBAN STARS!</p>]]></description>
+        <content:encoded><![CDATA[<p>Our crew prepares for both the assault on Empirico's base as well as the rescue of K'Lyst from Moff Tanniel's Star Destroyer. Tensions continue to rise this week, on URBAN STARS!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/ttie5g/Urban_Stars_Ep_10_-_11_23_18_10_59_AM.mp3" length="96113814" type="audio/mpeg"/>
+        <itunes:subtitle>Our crew prepares for both the assault on Empirico's base as well as the rescue of K'Lyst from Moff Tanniel's Star Destroyer. Tensions continue to rise this week, on URBAN STARS!</itunes:subtitle>
+        <itunes:summary>Our crew prepares for both the assault on Empirico's base as well as the rescue of K'Lyst from Moff Tanniel's Star Destroyer. Tensions continue to rise this week, on URBAN STARS!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>50:03</itunes:duration>
+                <itunes:episode>25</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 5 - Qwann to the Maxx (D&amp;D5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-5-qwann-to-the-maxx-dd5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-5-qwann-to-the-maxx-dd5e/#comments</comments>
+        <pubDate>Wed, 21 Nov 2018 15:43:54 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-5-qwann-to-the-maxx-dd5e-db98086f4a6c71885369d9880522534f</guid>
+        <description><![CDATA[<p>The Brew Crew continues to face off against the master illusionist, Qwann, and the new challenger, a drow assassin, attacking a diplomat from their home town!</p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>The Brew Crew continues to face off against the master illusionist, Qwann, and the new challenger, a drow assassin, attacking a diplomat from their home town!</p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/6ku57a/The_Brew_Crew_Ep_5_-_11_21_18_2_37_PM.mp3" length="87839058" type="audio/mpeg"/>
+        <itunes:subtitle>The Brew Crew continues to face off against the master illusionist, Qwann, and the new challenger, a drow assassin, attacking a diplomat from their home town!
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>The Brew Crew continues to face off against the master illusionist, Qwann, and the new challenger, a drow assassin, attacking a diplomat from their home town!
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>45:44</itunes:duration>
+                <itunes:episode>24</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 9 - Bonds of Trust (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-9-bonds-of-trust-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-9-bonds-of-trust-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 16 Nov 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-9-bonds-of-trust-star-wars-rpg-24ae42a84dfedb545042e83af696639b</guid>
+        <description><![CDATA[<p>K'Click and Varho drink space beer. Udel and Luika confront each other about what the other knows. The party bonds together this week, on Urban Stars!</p>]]></description>
+        <content:encoded><![CDATA[<p>K'Click and Varho drink space beer. Udel and Luika confront each other about what the other knows. The party bonds together this week, on Urban Stars!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/i5c48y/Urban_Stars_Ep_9_-_11_16_18_7_50_AM.mp3" length="99442441" type="audio/mpeg"/>
+        <itunes:subtitle>K'Click and Varho drink space beer. Udel and Luika confront each other about what the other knows. The party bonds together this week, on Urban Stars!</itunes:subtitle>
+        <itunes:summary>K'Click and Varho drink space beer. Udel and Luika confront each other about what the other knows. The party bonds together this week, on Urban Stars!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>51:47</itunes:duration>
+                <itunes:episode>23</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>Fallout PARANOIA!</title>
+        <link>https://wellthatdidntwork.podbean.com/e/fallout-paranoia/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/fallout-paranoia/#comments</comments>
+        <pubDate>Mon, 12 Nov 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/fallout-paranoia-ef3380e636a1d548cee10740c7c093ce</guid>
+        <description><![CDATA[<p>Join us on the good ol' Appalachian trail for this hootin adventure of 5 good ol' boys tryin ta rescue the very lives of their Vault! Or so we thought.....</p>]]></description>
+        <content:encoded><![CDATA[<p>Join us on the good ol' Appalachian trail for this hootin adventure of 5 good ol' boys tryin ta rescue the very lives of their Vault! Or so we thought.....</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/qz33mb/Fallout_PARANOIA_-_11_9_18_11_01_AM.mp3" length="332886864" type="audio/mpeg"/>
+        <itunes:subtitle>Join us on the good ol' Appalachian trail for this hootin adventure of 5 good ol' boys tryin ta rescue the very lives of their Vault! Or so we thought.....</itunes:subtitle>
+        <itunes:summary>Join us on the good ol' Appalachian trail for this hootin adventure of 5 good ol' boys tryin ta rescue the very lives of their Vault! Or so we thought.....</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>02:53:22</itunes:duration>
+                <itunes:episode>22</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Destroyer Arc 8 - Taris Awakens (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-8-taris-awakens-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-8-taris-awakens-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 09 Nov 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-8-taris-awakens-star-wars-rpg-c8e1443e9a9c04f682617c421f4c1966</guid>
+        <description><![CDATA[<p>K'Click's mind is plagued by visions. Varho tries to get his hands on space beer as a minor. Udel receives another critical hit. Luika's cover gets blown UP! </p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>K'Click's mind is plagued by visions. Varho tries to get his hands on space beer as a minor. Udel receives another critical hit. Luika's cover gets blown UP! </p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/jqwaex/Urban_Stars_Ep_8_-_11_8_18_7_29_AM.mp3" length="98777050" type="audio/mpeg"/>
+        <itunes:subtitle>K'Click's mind is plagued by visions. Varho tries to get his hands on space beer as a minor. Udel receives another critical hit. Luika's cover gets blown UP! 
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>K'Click's mind is plagued by visions. Varho tries to get his hands on space beer as a minor. Udel receives another critical hit. Luika's cover gets blown UP! 
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>51:26</itunes:duration>
+                <itunes:episode>21</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 4 - Trippy Knome (D&amp;D5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-4-trippy-knome-dd5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-4-trippy-knome-dd5e/#comments</comments>
+        <pubDate>Wed, 07 Nov 2018 12:30:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-4-trippy-knome-dd5e-4a2dec07566a059a9af8683095b8cbe5</guid>
+        <description><![CDATA[<p>All aboard the Lightning Rail as we begin our journey this week from Gruffbeard's Finest all the way to Fairhaven. Enter Qwann, the trippy knome. </p>
+<p>Music by purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>All aboard the Lightning Rail as we begin our journey this week from Gruffbeard's Finest all the way to Fairhaven. Enter Qwann, the trippy knome. </p>
+<p>Music by purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/9drs7g/Brew_Crew_Ep_4_-_11_1_18_10_20_AM.mp3" length="89265970" type="audio/mpeg"/>
+        <itunes:subtitle>All aboard the Lightning Rail as we begin our journey this week from Gruffbeard's Finest all the way to Fairhaven. Enter Qwann, the trippy knome. 
+Music by purple-planet.com</itunes:subtitle>
+        <itunes:summary>All aboard the Lightning Rail as we begin our journey this week from Gruffbeard's Finest all the way to Fairhaven. Enter Qwann, the trippy knome. 
+Music by purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>46:29</itunes:duration>
+                <itunes:episode>20</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS Training Day #1</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-training-day-1/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-training-day-1/#comments</comments>
+        <pubDate>Sat, 03 Nov 2018 21:35:55 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-training-day-1-f98af21653a58ba74d88e037d171434d</guid>
+        <description><![CDATA[<p>Did you ever wonder how characters in the galaxy far far away got better at what they did? This is your chance to hear it first hand, for free! Usually our Level Ups will be Patreon only, but we were so excited about this one that we decided to publish it for free!</p>]]></description>
+        <content:encoded><![CDATA[<p>Did you ever wonder how characters in the galaxy far far away got better at what they did? This is your chance to hear it first hand, for free! Usually our Level Ups will be Patreon only, but we were so excited about this one that we decided to publish it for free!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/zhiday/Urban_Stars_Level_Up_Free_-_11_2_18_11_32_AM.mp3" length="112327287" type="audio/mpeg"/>
+        <itunes:subtitle>Did you ever wonder how characters in the galaxy far far away got better at what they did? This is your chance to hear it first hand, for free! Usually our Level Ups will be Patreon only, but we were so excited about this one that we decided to publish i...</itunes:subtitle>
+        <itunes:summary>Did you ever wonder how characters in the galaxy far far away got better at what they did? This is your chance to hear it first hand, for free! Usually our Level Ups will be Patreon only, but we were so excited about this one that we decided to publish it for free!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>58:30</itunes:duration>
+                <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 7 - Wrapping up a Bounty</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-7-wrapping-up-a-bounty/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-7-wrapping-up-a-bounty/#comments</comments>
+        <pubDate>Fri, 02 Nov 2018 12:00:14 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-7-wrapping-up-a-bounty-71a1800ef5f09183a1b946de58a4bcc3</guid>
+        <description><![CDATA[<p>This week, our heroes recover from a chilling experience with a bounty hunter who permanently disfigured Udel Ilvee.</p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>This week, our heroes recover from a chilling experience with a bounty hunter who permanently disfigured Udel Ilvee.</p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/dvzfq6/Urban_Stars_Ep_7_Wrapping_up_a_Bounty_-_10_30_18_8_37_AM.mp3" length="90311704" type="audio/mpeg"/>
+        <itunes:subtitle>This week, our heroes recover from a chilling experience with a bounty hunter who permanently disfigured Udel Ilvee.
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>This week, our heroes recover from a chilling experience with a bounty hunter who permanently disfigured Udel Ilvee.
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>47:02</itunes:duration>
+                <itunes:episode>18</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 6 - Pound of Flesh (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-6-pound-of-flesh-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-6-pound-of-flesh-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 26 Oct 2018 12:00:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-6-pound-of-flesh-star-wars-rpg-359b19350d33e17a952ad87276cef768</guid>
+        <description><![CDATA[<p>The investigation goes south when Udel's obligation - Bounty - pays him an unfortunate visit.</p>
+<p>Music by: Purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>The investigation goes south when Udel's obligation - Bounty - pays him an unfortunate visit.</p>
+<p>Music by: Purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/h7v6b6/Star_Wars_Ep_6_-_Pound_of_Flesh_-_10_26_18_9_37_AM.mp3" length="117465678" type="audio/mpeg"/>
+        <itunes:subtitle>The investigation goes south when Udel's obligation - Bounty - pays him an unfortunate visit.
+Music by: Purple-planet.com</itunes:subtitle>
+        <itunes:summary>The investigation goes south when Udel's obligation - Bounty - pays him an unfortunate visit.
+Music by: Purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:01:10</itunes:duration>
+                <itunes:episode>17</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 3 - Mimic Me This (D&amp;D5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-3-mimic-me-this-dd5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-3-mimic-me-this-dd5e/#comments</comments>
+        <pubDate>Wed, 24 Oct 2018 12:15:00 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-3-mimic-me-this-dd5e-2ff082bd6b4a5ecda1f1ae4b01f97fc8</guid>
+        <description><![CDATA[<p>What's in the box? ...What's in the box?? WHATS IN THE BOX???</p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>What's in the box? ...What's in the box?? WHATS IN THE BOX???</p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/gindxz/Brew_Crew_Episode_3_Mimic_Me_This_-_10_24_18_6_44_AM.mp3" length="80848272" type="audio/mpeg"/>
+        <itunes:subtitle>What's in the box? ...What's in the box?? WHATS IN THE BOX???
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>What's in the box? ...What's in the box?? WHATS IN THE BOX???
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>42:06</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>Topaz Championship Part Two (Legend of the Five Rings Beginner Box)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/topaz-championship-part-two-legend-of-the-five-rings-beginner-box/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/topaz-championship-part-two-legend-of-the-five-rings-beginner-box/#comments</comments>
+        <pubDate>Tue, 23 Oct 2018 14:50:20 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/topaz-championship-part-two-legend-of-the-five-rings-beginner-box-1d9051d8a243711c6bb5c717b9c7f644</guid>
+        <description><![CDATA[<p>After a brief rest, and spending some XP, our pre-samurai samurai are ready to continue their genpuku trials, and discover WHO WILL BE the Topaz Champion. </p>]]></description>
+        <content:encoded><![CDATA[<p>After a brief rest, and spending some XP, our pre-samurai samurai are ready to continue their genpuku trials, and discover WHO WILL BE the Topaz Champion. </p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/qszz63/L5R_Topaz_Champs_Pt_2_-_10_23_18_2_26_PM.mp3" length="215951075" type="audio/mpeg"/>
+        <itunes:subtitle>After a brief rest, and spending some XP, our pre-samurai samurai are ready to continue their genpuku trials, and discover WHO WILL BE the Topaz Champion. </itunes:subtitle>
+        <itunes:summary>After a brief rest, and spending some XP, our pre-samurai samurai are ready to continue their genpuku trials, and discover WHO WILL BE the Topaz Champion. </itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:52:28</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 5 - Party Splits (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-5-party-splits-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-5-party-splits-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 19 Oct 2018 11:27:25 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-5-party-splits-star-wars-rpg-23e427b303bcb2c403554667c8a3184d</guid>
+        <description><![CDATA[<p>K'Click gets a job, Varho eats a space slug, the gang laughs a lot, and Udel tries to seduce an officer of the law. </p>
+<p>Music by: purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>K'Click gets a job, Varho eats a space slug, the gang laughs a lot, and Udel tries to seduce an officer of the law. </p>
+<p>Music by: purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/vpbd4r/Urban_Stars_Ep_5_-_The_Gang_Gets_to_Work_-_10_19_18_11_19_AM.mp3" length="110046902" type="audio/mpeg"/>
+        <itunes:subtitle>K'Click gets a job, Varho eats a space slug, the gang laughs a lot, and Udel tries to seduce an officer of the law. 
+Music by: purple-planet.com</itunes:subtitle>
+        <itunes:summary>K'Click gets a job, Varho eats a space slug, the gang laughs a lot, and Udel tries to seduce an officer of the law. 
+Music by: purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>57:18</itunes:duration>
+                <itunes:episode>14</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>Topaz Championship Part One (Legend of the Five Rings Beginner Box)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/topaz-championship-part-one-legend-of-the-five-rings-beginner-box/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/topaz-championship-part-one-legend-of-the-five-rings-beginner-box/#comments</comments>
+        <pubDate>Wed, 17 Oct 2018 14:17:07 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/topaz-championship-part-one-legend-of-the-five-rings-beginner-box-793a06b0a49e62e4dc128c1fb3430398</guid>
+        <description><![CDATA[<p>Matthew Nuckles joins us this week for a Legend of the 5 Rings beginner box playthrough. Join us for the Topaz Championship!</p>]]></description>
+        <content:encoded><![CDATA[<p>Matthew Nuckles joins us this week for a Legend of the 5 Rings beginner box playthrough. Join us for the Topaz Championship!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/5jaqy4/L5R_Topaz_Championship_Part_One_-_10_17_18_1_51_PM.mp3" length="288614118" type="audio/mpeg"/>
+        <itunes:subtitle>Matthew Nuckles joins us this week for a Legend of the 5 Rings beginner box playthrough. Join us for the Topaz Championship!</itunes:subtitle>
+        <itunes:summary>Matthew Nuckles joins us this week for a Legend of the 5 Rings beginner box playthrough. Join us for the Topaz Championship!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>02:30:19</itunes:duration>
+                <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1478.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 4 - Glorps and Sporks (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-4-glorps-and-sporks-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-4-glorps-and-sporks-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 12 Oct 2018 11:41:58 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-4-glorps-and-sporks-star-wars-rpg-38467242bf5768ff98cbeebe3528f867</guid>
+        <description><![CDATA[<p>This week, we learn a new alien language, visit the backyard bbq of Taris, and our crew gets back together after 3 weeks of hunting down leads. This ride is going to be quite bumpy, so buckle up!</p>
+<p>Music by purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>This week, we learn a new alien language, visit the backyard bbq of Taris, and our crew gets back together after 3 weeks of hunting down leads. This ride is going to be quite bumpy, so buckle up!</p>
+<p>Music by purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/kvi4k3/URBAN_STARS_Ep_4_-_Glorps_and_Sporks_Star_Wars_RPG_-_10_12_18_11_35_AM.mp3" length="87649304" type="audio/mpeg"/>
+        <itunes:subtitle>This week, we learn a new alien language, visit the backyard bbq of Taris, and our crew gets back together after 3 weeks of hunting down leads. This ride is going to be quite bumpy, so buckle up!
+Music by purple-planet.com</itunes:subtitle>
+        <itunes:summary>This week, we learn a new alien language, visit the backyard bbq of Taris, and our crew gets back together after 3 weeks of hunting down leads. This ride is going to be quite bumpy, so buckle up!
+Music by purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>45:38</itunes:duration>
+                <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 2 - Hopps Spicy Fried Stuff (D&amp;D 5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-2-hopps-spicy-fried-stuff-dd-5e/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-2-hopps-spicy-fried-stuff-dd-5e/#comments</comments>
+        <pubDate>Wed, 10 Oct 2018 20:22:16 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-2-hopps-spicy-fried-stuff-dd-5e-9be0e483c5291481a2bed4db07d95f0b</guid>
+        <description><![CDATA[<p>What do you get when you mix an adventuring party with a cajun restaurant owned by a Bullywug? Haw Haw, ain't no tellin you nuttin naow!</p>]]></description>
+        <content:encoded><![CDATA[<p>What do you get when you mix an adventuring party with a cajun restaurant owned by a Bullywug? Haw Haw, ain't no tellin you nuttin naow!</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/y5jxr3/Brew_Crew_Ep_2_Hopps_Spicy_Fried_Stuff.mp3" length="51792585" type="audio/mpeg"/>
+        <itunes:subtitle>What do you get when you mix an adventuring party with a cajun restaurant owned by a Bullywug? Haw Haw, ain't no tellin you nuttin naow!</itunes:subtitle>
+        <itunes:summary>What do you get when you mix an adventuring party with a cajun restaurant owned by a Bullywug? Haw Haw, ain't no tellin you nuttin naow!</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>26:58</itunes:duration>
+                <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 3 - Intrigue (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-3-intrigue-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-3-intrigue-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 05 Oct 2018 12:13:12 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-3-intrigue-star-wars-rpg-8cfa530f2bbb52febb94771f0d074fc3</guid>
+        <description><![CDATA[<p>Our characters finally find themselves united for the first time, struggling to correct the calamity at the wall that separates the lower city of Taris from its undercity. We also officially introduce the verpine from the pitt fight, and you'll get a first look at the BBEG. Enjoy!</p>
+<p>Music by: Purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>Our characters finally find themselves united for the first time, struggling to correct the calamity at the wall that separates the lower city of Taris from its undercity. We also officially introduce the verpine from the pitt fight, and you'll get a first look at the BBEG. Enjoy!</p>
+<p>Music by: Purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/q4xq92/URBAN_STARS_Ep_3_Intrigue_.mp3" length="52830554" type="audio/mpeg"/>
+        <itunes:subtitle>Our characters finally find themselves united for the first time, struggling to correct the calamity at the wall that separates the lower city of Taris from its undercity. We also officially introduce the verpine from the pitt fight, and you'll get a fir...</itunes:subtitle>
+        <itunes:summary>Our characters finally find themselves united for the first time, struggling to correct the calamity at the wall that separates the lower city of Taris from its undercity. We also officially introduce the verpine from the pitt fight, and you'll get a first look at the BBEG. Enjoy!
+Music by: Purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>38:00</itunes:duration>
+                <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 2 - Rush (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep2-rush-star-wars-rpg/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep2-rush-star-wars-rpg/#comments</comments>
+        <pubDate>Fri, 28 Sep 2018 10:16:03 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep2-rush-star-wars-rpg-7d05132b966059fe78f806e220eec494</guid>
+        <description><![CDATA[<p>The adventure continues with K'Click, Varho, Luika, and Udel, as they rush to answer the calamity at the wall.</p>
+<p>Music by: Purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>The adventure continues with K'Click, Varho, Luika, and Udel, as they rush to answer the calamity at the wall.</p>
+<p>Music by: Purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/uzs8d5/Urban_Stars_Ep_2_Rush_.mp3" length="50386058" type="audio/mpeg"/>
+        <itunes:subtitle>The adventure continues with K'Click, Varho, Luika, and Udel, as they rush to answer the calamity at the wall.
+Music by: Purple-planet.com</itunes:subtitle>
+        <itunes:summary>The adventure continues with K'Click, Varho, Luika, and Udel, as they rush to answer the calamity at the wall.
+Music by: Purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>34:01</itunes:duration>
+                <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1376.jpg"/>
+    </item>
+    <item>
+        <title>THE BREW CREW Ep 1 - Drop in the Finings (D&amp;D 5e)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-1-drop-in-the-finings/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/the-brew-crew-ep-1-drop-in-the-finings/#comments</comments>
+        <pubDate>Wed, 26 Sep 2018 10:32:13 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/the-brew-crew-ep-1-drop-in-the-finings-119623280f3bfa1104caacef24ea2e10</guid>
+        <description><![CDATA[<p>Welcome to Eberron, in Dungeons and Dragons 5e, most specifically the southern tip of Aundair, in a brewing town called Gruffbeard's Finest!</p>
+<p>With the retirement of Gruffbeard's Finest's Champions, after 50 years of serving, protecting, and brewing great beer, our heroes have an opportunity to compete for the title of Champion, and their own stake in Gruffbeard's Finest stock!</p>
+<p>Music by: Purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>Welcome to Eberron, in Dungeons and Dragons 5e, most specifically the southern tip of Aundair, in a brewing town called Gruffbeard's Finest!</p>
+<p>With the retirement of Gruffbeard's Finest's Champions, after 50 years of serving, protecting, and brewing great beer, our heroes have an opportunity to compete for the title of Champion, and their own stake in Gruffbeard's Finest stock!</p>
+<p>Music by: Purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/6dsyyd/BREW_CREW_Ep_1_Potential_Champions_.mp3" length="71974322" type="audio/mpeg"/>
+        <itunes:subtitle>Welcome to Eberron, in Dungeons and Dragons 5e, most specifically the southern tip of Aundair, in a brewing town called Gruffbeard's Finest!
+With the retirement of Gruffbeard's Finest's Champions, after 50 years of serving, protecting, and brewing great ...</itunes:subtitle>
+        <itunes:summary>Welcome to Eberron, in Dungeons and Dragons 5e, most specifically the southern tip of Aundair, in a brewing town called Gruffbeard's Finest!
+With the retirement of Gruffbeard's Finest's Champions, after 50 years of serving, protecting, and brewing great beer, our heroes have an opportunity to compete for the title of Champion, and their own stake in Gruffbeard's Finest stock!
+Music by: Purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>49:22</itunes:duration>
+                <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/IMG_1706.jpg"/>
+    </item>
+    <item>
+        <title>STRIFE Ep 4 (Finale)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/strife-ep-4-finale-1537565807/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/strife-ep-4-finale-1537565807/#comments</comments>
+        <pubDate>Fri, 21 Sep 2018 16:36:47 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/strife-ep-4-finale-1537565807-3bf6b4d80c37ca63071a944994afc7b8</guid>
+        <description><![CDATA[<p>In the exciting conclusion to STRIFE, our cats finally discover the truth about their enemy, and find a way to thwart it. Enjoy!</p>
+<p>Music and SFX from <a href="/wellthatdidntwork/episode/update/id/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></description>
+        <content:encoded><![CDATA[<p>In the exciting conclusion to STRIFE, our cats finally discover the truth about their enemy, and find a way to thwart it. Enjoy!</p>
+<p>Music and SFX from <a href="/wellthatdidntwork/episode/update/id/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/gexs3w/STRIFE_Ep_4_Finale_.mp3" length="71792361" type="audio/mpeg"/>
+        <itunes:subtitle>In the exciting conclusion to STRIFE, our cats finally discover the truth about their enemy, and find a way to thwart it. Enjoy!
+Music and SFX from zapsplat.com and purple-planet.com</itunes:subtitle>
+        <itunes:summary>In the exciting conclusion to STRIFE, our cats finally discover the truth about their enemy, and find a way to thwart it. Enjoy!
+Music and SFX from zapsplat.com and purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>46:59</itunes:duration>
+                <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/Strife_Logo.jpg"/>
+    </item>
+    <item>
+        <title>URBAN STARS - Character Intro Arc 1 - Collapse (Star Wars RPG)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-1-collapse/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/urban-stars-ep-1-collapse/#comments</comments>
+        <pubDate>Fri, 21 Sep 2018 16:16:08 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/urban-stars-ep-1-collapse-c443b0bdaecbd3d8c67a4be38f6267ae</guid>
+        <description><![CDATA[<p>Join us as we begin this season of Urban Stars, using Star Wars RPG by Fantasy Flight Games! We hope you enjoy hanging out with our characters for many weeks to come!</p>
+<p>Music by: Purple-planet.com</p>]]></description>
+        <content:encoded><![CDATA[<p>Join us as we begin this season of Urban Stars, using Star Wars RPG by Fantasy Flight Games! We hope you enjoy hanging out with our characters for many weeks to come!</p>
+<p>Music by: Purple-planet.com</p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/c65nj4/Urban_Stars_Ep_1_Collapse_.mp3" length="42837264" type="audio/mpeg"/>
+        <itunes:subtitle>Join us as we begin this season of Urban Stars, using Star Wars RPG by Fantasy Flight Games! We hope you enjoy hanging out with our characters for many weeks to come!
+Music by: Purple-planet.com</itunes:subtitle>
+        <itunes:summary>Join us as we begin this season of Urban Stars, using Star Wars RPG by Fantasy Flight Games! We hope you enjoy hanging out with our characters for many weeks to come!
+Music by: Purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>28:57</itunes:duration>
+                <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>STRIFE Ep 3 (A Little Bit of Cat Magic)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/strife-ep-3-a-little-bit-of-cat-magic/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/strife-ep-3-a-little-bit-of-cat-magic/#comments</comments>
+        <pubDate>Wed, 19 Sep 2018 22:35:42 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/strife-ep-3-a-little-bit-of-cat-magic-b282092fe3dbbd78356c936cbef7ac7f</guid>
+        <description><![CDATA[<p>In this episode, our cats go to gret lengths to find their way into the neighborhood house, and finally witness their enemy firsthand!</p>
+<p>Music and SFX from <a href="/wellthatdidntwork/episode/update/id/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></description>
+        <content:encoded><![CDATA[<p>In this episode, our cats go to gret lengths to find their way into the neighborhood house, and finally witness their enemy firsthand!</p>
+<p>Music and SFX from <a href="/wellthatdidntwork/episode/update/id/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/7anj6r/Ep_3_Strife_A_Little_Bit_of_Cat_Magic_.mp3" length="47623455" type="audio/mpeg"/>
+        <itunes:subtitle>In this episode, our cats go to gret lengths to find their way into the neighborhood house, and finally witness their enemy firsthand!
+Music and SFX from zapsplat.com and purple-planet.com</itunes:subtitle>
+        <itunes:summary>In this episode, our cats go to gret lengths to find their way into the neighborhood house, and finally witness their enemy firsthand!
+Music and SFX from zapsplat.com and purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>32:26</itunes:duration>
+                <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/Strife_Logo.jpg"/>
+    </item>
+    <item>
+        <title>STRIFE Ep 2 (Over The Fence)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/cats-ep-2-over-the-fence/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/cats-ep-2-over-the-fence/#comments</comments>
+        <pubDate>Wed, 19 Sep 2018 12:52:53 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/cats-ep-2-over-the-fence-0aa53d4b158356d73ecf1526350f41d3</guid>
+        <description><![CDATA[<p>Our cats begin looking for a way into this poor, cat-less house. Some seek out magic, and others more mundane means, and then...things get furry.</p>
+<p>Music and SFK by <a href="/wellthatdidntwork/episode/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></description>
+        <content:encoded><![CDATA[<p>Our cats begin looking for a way into this poor, cat-less house. Some seek out magic, and others more mundane means, and then...things get furry.</p>
+<p>Music and SFK by <a href="/wellthatdidntwork/episode/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/npqj6g/Strife_Ep_2_Over_The_Fence_.mp3" length="42454644" type="audio/mpeg"/>
+        <itunes:subtitle>Our cats begin looking for a way into this poor, cat-less house. Some seek out magic, and others more mundane means, and then...things get furry.
+Music and SFK by zapsplat.com and purple-planet.com</itunes:subtitle>
+        <itunes:summary>Our cats begin looking for a way into this poor, cat-less house. Some seek out magic, and others more mundane means, and then...things get furry.
+Music and SFK by zapsplat.com and purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>26:00</itunes:duration>
+                <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/Strife_Logo.jpg"/>
+    </item>
+    <item>
+        <title>STRIFE Ep 1 (On The Prowl)</title>
+        <link>https://wellthatdidntwork.podbean.com/e/cats-ep-1-on-the-prowl/</link>
+        <comments>https://wellthatdidntwork.podbean.com/e/cats-ep-1-on-the-prowl/#comments</comments>
+        <pubDate>Wed, 19 Sep 2018 12:12:06 -0500</pubDate>
+        <guid isPermaLink="false">wellthatdidntwork.podbean.com/cats-ep-1-on-the-prowl-982fe39329b1925d18ef905c195c9796</guid>
+        <description><![CDATA[<p>The Not Working Crew begins our journey into the world of Cats by John Wick Presents! This episode includes a rules overview and our first introduction to our four feline friends! </p>
+<p>Music and SFX from <a href="/wellthatdidntwork/episode/update/id/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></description>
+        <content:encoded><![CDATA[<p>The Not Working Crew begins our journey into the world of Cats by John Wick Presents! This episode includes a rules overview and our first introduction to our four feline friends! </p>
+<p>Music and SFX from <a href="/wellthatdidntwork/episode/update/id/">zapsplat.com</a> and <a href="http://www.purple-planet.com">purple-planet.com</a></p>]]></content:encoded>
+        <enclosure url="https://mcdn.podbean.com/mf/web/yurdgi/Ep_1_Strife_On_The_Prowl_.mp3" length="55998147" type="audio/mpeg"/>
+        <itunes:subtitle>The Not Working Crew begins our journey into the world of Cats by John Wick Presents! This episode includes a rules overview and our first introduction to our four feline friends! 
+Music and SFX from zapsplat.com and purple-planet.com</itunes:subtitle>
+        <itunes:summary>The Not Working Crew begins our journey into the world of Cats by John Wick Presents! This episode includes a rules overview and our first introduction to our four feline friends! 
+Music and SFX from zapsplat.com and purple-planet.com</itunes:summary>
+        <itunes:author>Well That Didn’t Work</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>37:44</itunes:duration>
+                <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog3347685/Strife_Logo.jpg"/>
+    </item>
+</channel>
+</rss>
+
+
+
+
+
+
+
+
+
+[
+  [
+    <<60, 63, 120, 109, 108, 32, 118, 101, 114, 115, 105, 111, 110, 61, 34, 49,
+      46, 48, 34, 32, 101, 110, 99, 111, 100, 105, 110, 103, 61, 34, 85, 84, 70,
+      45, 56, 34, 63, 62, 60, 33, 45, 45, 32, 103, 101, 110, 101, 114, ...>>,
+    "WARRIORS PATH Episode 3: Evidence Lost (L5R RPG)",
+    "02:12:46",
+    "63"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      84, 65, 82, 83, 32, 45, 32, 83, 117, 114, 118, 105, 118, ...>>,
+    "URBAN STARS - Survival Arc 26 - Worst Case Scenario",
+    "01:09:09",
+    "62"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 84, 65, 66, 76, 69, 32, 66,
+      65, 66, 66, 76, 69, 32, 49, 58, 32, 87, 101, 108, ...>>,
+    "TABLE BABBLE 1: Welcome to our Talk Show!",
+    "40:52",
+    "61"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      84, 65, 82, 83, 32, 45, 32, 83, 117, 114, 118, ...>>,
+    "URBAN STARS - Survival Arc 25 - Friends in Low Places",
+    "01:01:34",
+    "60"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 84, 82, 65, 73, 76, 32, 79,
+      70, 32, 84, 72, 69, 32, 74, 65, 68, 69, ...>>,
+    "TRAIL OF THE JADE RABBIT - Chapter 1: Death of an Investigator (Call of Cthulhu 7e)",
+    "39:57",
+    "59"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 84, 82, 65, 73, 76, 32, 79,
+      70, 32, 84, 72, 69, 32, 74, 65, 68, ...>>,
+    "TRAIL OF THE JADE RABBIT - Preface: Character Creation (Call of Cthulhu 7e)",
+    "52:39",
+    "58"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 77, 97, 114, 99, 104, 32, 85,
+      112, 100, 97, 116, 101, 33, 60, 47, ...>>,
+    "March Update!",
+    "07:41",
+    "57"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      84, 65, 82, 83, 32, 45, 32, ...>>,
+    "URBAN STARS - Survival Arc 24 - Goodnight, Sweet Frank (Star Wars RPG)",
+    "54:28",
+    "56"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      84, 65, 82, 83, 32, 45, ...>>,
+    "URBAN STARS - Survival Arc 23 - Kal Tame (Star Wars RPG)",
+    "01:10:08",
+    "55"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 87, 65, 82, 82, 73, 79, 82,
+      83, 32, 80, 65, 84, ...>>,
+    "WARRIORS PATH Ep 2 - Gryo Ricco (Legend of the Five Rings)",
+    "02:02:57",
+    "54"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 87, 65, 82, 82, 73, 79, 82,
+      83, 32, 80, 65, ...>>,
+    "WARRIORS PATH Ep 1 - The New Magistrates (Legend of the Five Rings)",
+    "02:13:16",
+    "53"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      84, 65, 82, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 22 - Claymore in the Dark (Star Wars RPG)",
+    "42:42",
+    "52"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 84, 72, 69, 32, 66, 82, 69,
+      87, 32, ...>>,
+    "THE BREW CREW Ep 10 - Qwann and the Darkness (D&amp;D5e)",
+    "54:28",
+    "51"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      84, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 21 - A Pod of Purrgill (Star Wars RPG)",
+    "37:51",
+    "50"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, 65, 78, 32, 83,
+      ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 20 - Orbital Checkpoint 681 (Star Wars RPG)",
+    "42:14",
+    "48"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 70, 101, 98, 114, 117, 97,
+      ...>>,
+    "February Update!",
+    "20:34",
+    "49"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 84, 72, 69, 32, 66, ...>>,
+    "THE BREW CREW Ep 9 - Meeting in a Tavern (D&amp;D5e)",
+    "59:10",
+    "47"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 87, 65, 82, 82, ...>>,
+    "WARRIORS PATH Episode 0.4: Shosuro Junji (L5R)",
+    "44:18",
+    "46"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, 82, 66, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 19 - Heist Prep Work (Star Wars RPG)",
+    "38:55",
+    "45"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 87, 65, ...>>,
+    "WARRIORS PATH Episode 0.3: Isawa Airie (L5R)",
+    "49:00",
+    "44"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, 85, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 18 - Visitors from the Past (Star Wars RPG)",
+    "55:27",
+    "43"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, 62, ...>>,
+    "WARRIORS PATH Episode 0.2: Mirumoto Dip Thong (L5R)",
+    "41:10",
+    "42"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, 101, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 17 - Part 2: Get the Money (Star Wars RPG)",
+    "46:39",
+    "41"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, 108, ...>>,
+    "WARRIORS PATH Episode 0.1: Kakita Isamu (L5R)",
+    "01:11:15",
+    "40"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, 116, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 16 - Part 1: Find a Ship (Star Wars RPG)",
+    "49:05",
+    "39"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, 105, ...>>,
+    "THE BREW CREW Ep 8 - Mysteries Underground (D&amp;D 5e)",
+    "01:02:35",
+    "38"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, 116, ...>>,
+    "HAPPY NEW YEAR! A look ahead into January and 2019",
+    "12:03",
+    "37"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, 60, ...>>,
+    "URBAN STARS - Rogue Moon Heist Arc 15 - Make the Plan (Star Wars RPG)",
+    "46:17",
+    "36"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, 32, ...>>,
+    "URBAN STARS - Destroyer Arc 14 - Resistance (Star Wars RPG)",
+    "55:15",
+    "35"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, 32, ...>>,
+    "THE BREW CREW Ep 7 - The Abandoned Cathedral (D&amp;D 5e)",
+    "48:51",
+    "34"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      32, ...>>,
+    "URBAN STARS - Destroyer Arc 13 - Enraged (Star Wars RPG)",
+    "01:05:35",
+    "33"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, 32,
+      ...>>,
+    "Land of the Dead Pt 3 (7th Sea 2e)",
+    "01:36:59",
+    "32"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, 32, ...>>,
+    "Land of the Dead Pt 2 (7th Sea 2e)",
+    "56:35",
+    "31"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, 32, ...>>,
+    "Land of the Dead Pt 1 (7th Sea 2e)",
+    "52:21",
+    "30"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, 32, ...>>,
+    "URBAN STARS - Destroyer Arc 12 - Sedated (Star Wars RPG)",
+    "01:07:46",
+    "29"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, 32, ...>>,
+    "THE BREW CREW Ep 6 - Where There is Smoke (D&amp;D 5e)",
+    "54:53",
+    "28"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, 10, ...>>,
+    "December Update",
+    "11:13",
+    "27"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, 62, ...>>,
+    "URBAN STARS - Destroyer Arc 11 - Assault: Begin (Star Wars RPG)",
+    "56:40",
+    "26"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, 109, ...>>,
+    "URBAN STARS - Destroyer Arc 10 - Who Will You Become? (Star Wars RPG",
+    "50:03",
+    "25"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, 101, ...>>,
+    "THE BREW CREW Ep 5 - Qwann to the Maxx (D&amp;D5e)",
+    "45:44",
+    "24"
+  ],
+  [
+    <<10, 32, 32, 32, 32, 60, 105, 116, ...>>,
+    "URBAN STARS - Destroyer Arc 9 - Bonds of Trust (Star Wars RPG)",
+    "51:47",
+    "23"
+  ],
+  [<<10, 32, 32, 32, 32, 60, 105, ...>>, "Fallout PARANOIA!", "02:53:22", "22"],
+  [
+    <<10, 32, 32, 32, 32, 60, ...>>,
+    "URBAN STARS - Destroyer Arc 8 - Taris Awakens (Star Wars RPG)",
+    "51:26",
+    "21"
+  ],
+  [
+    <<10, 32, 32, 32, 32, ...>>,
+    "THE BREW CREW Ep 4 - Trippy Knome (D&amp;D5e)",
+    "46:29",
+    "20"
+  ],
+  [<<10, 32, 32, 32, ...>>, "URBAN STARS Training Day #1", "58:30", "19"],
+  [
+    <<10, 32, 32, ...>>,
+    "URBAN STARS - Character Intro Arc 7 - Wrapping up a Bounty",
+    "47:02",
+    "18"
+  ],
+  [
+    <<10, 32, ...>>,
+    "URBAN STARS - Character Intro Arc 6 - Pound of Flesh (Star Wars RPG)",
+    "01:01:10",
+    ...
+  ],
+  [<<10, ...>>, "THE BREW CREW Ep 3 - Mimic Me This (D&amp;D5e)", ...],
+  [<<...>>, ...],
+  [...],
+  ...
+]
